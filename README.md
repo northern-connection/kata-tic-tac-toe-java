@@ -28,3 +28,4 @@ We must apply Object Calisthenics rules.
 -  Object Calisthenics (full book), Jeff Bay in: The ThoughtWorks Anthology.
 Pragmatic Bookshelf 2008
 -  Original idea for the kata: How Object-Oriented Are You Feeling Today? - Krzysztof Jelski (Session on the Software Craftsmanship UK 2011 conference)
+-  [Hamcrest doc](https://code.google.com/archive/p/hamcrest/wikis/Tutorial.wiki)
